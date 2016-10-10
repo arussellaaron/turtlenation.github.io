@@ -1,18 +1,18 @@
 body {margin:0; font-family:"Comic Sans MS", cursive; background-color:#000000;}
 
-#header {height:150px; background-image:url(images/header_bg.png);}
+#header {height:150px; background-image:url(pic/header_bg.png);}
 #logo {float:left; font-size:36px; padding:38px 0 30px 50px;}
 #logo a {color:#F0F0F0; text-decoration:none;}
 #slogan {float:right; font-size:24px; color:#F0F0F0; padding:52px 50px 34px 0;}
 #menu {height:31px; clear:both; padding-left:28px;}
 #menu ul {margin:0; padding:0;}
-#menu li {list-style:none; float:left; background:url(images/menu_bg2.png) right no-repeat;}
-#menu a {float:left; background:url(images/menu_bg1.png) left no-repeat; height:21px; padding:5px 20px; color:#888888; font-size:15px; font-weight:bold; text-decoration:none;}
+#menu li {list-style:none; float:left; background:url(pic/menu_bg2.png) right no-repeat;}
+#menu a {float:left; background:url(pic/menu_bg1.png) left no-repeat; height:21px; padding:5px 20px; color:#888888; font-size:15px; font-weight:bold; text-decoration:none;}
 #menu a:hover {color:#D6D6D6;}
-#menu li.active {background:url(images/menu_bg2_active.png) right no-repeat;}
-#menu li.active a {background:url(images/menu_bg1_active.png) left no-repeat; color:#F0F0F0;}
+#menu li.active {background:url(pic/menu_bg2_active.png) right no-repeat;}
+#menu li.active a {background:url(pic/menu_bg1_active.png) left no-repeat; color:#F0F0F0;}
 
-#main {float:left; width:100%; background:url(images/sidebar_bg.png) right repeat-y #0D0D0D; color:#D6D6D6; font-size:13px;}
+#main {float:left; width:100%; background:url(pic/sidebar_bg.png) right repeat-y #0D0D0D; color:#D6D6D6; font-size:13px;}
 #main a {color:#888888;}
 #main a:hover {color:#D6D6D6;}
 #main br {line-height:10px;}
@@ -28,7 +28,7 @@ body {margin:0; font-family:"Comic Sans MS", cursive; background-color:#000000;}
 #text ol, #text ul {padding:0; margin:10px 0;}
 #text li {margin-left:40px;}
 
-#footer {height:100px; color:#F0F0F0; font-size:13px; background-image:url(images/footer_bg.png); clear:both;}
+#footer {height:100px; color:#F0F0F0; font-size:13px; background-image:url(pic/footer_bg.png); clear:both;}
 #footer a {color:#F0F0F0;}
 #footer a:hover {color:#888888;}
 #footer_left {float:left; padding:41px 0 0 50px;}
