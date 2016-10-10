@@ -14,7 +14,7 @@
 	canvas {
 		display: block;
 		position: absolute;
-		border: 10px solid #3300FF;
+		border: 20px solid #000;
 		margin: auto;
 		top: 0;
 		bottom: 0;
